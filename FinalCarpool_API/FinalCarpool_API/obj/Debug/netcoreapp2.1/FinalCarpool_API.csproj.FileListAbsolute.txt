@@ -1,0 +1,14 @@
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\bin\Debug\netcoreapp2.1\FinalCarpool_API.deps.json
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\bin\Debug\netcoreapp2.1\FinalCarpool_API.runtimeconfig.json
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\bin\Debug\netcoreapp2.1\FinalCarpool_API.runtimeconfig.dev.json
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\bin\Debug\netcoreapp2.1\FinalCarpool_API.dll
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.csprojAssemblyReference.cache
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.RazorAssemblyInfo.cache
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.RazorAssemblyInfo.cs
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.AssemblyInfoInputs.cache
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.AssemblyInfo.cs
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.RazorTargetAssemblyInfo.cache
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\bin\Debug\netcoreapp2.1\FinalCarpool_API.pdb
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.dll
+C:\Users\himanshu.k\source\repos\FinalCarpool_API\FinalCarpool_API\obj\Debug\netcoreapp2.1\FinalCarpool_API.pdb
